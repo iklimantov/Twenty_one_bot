@@ -32,8 +32,8 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <https://github.com/iklimantov/Twenty_one_bot>
-cd <Twenty_one_bot>
+git clone https://github.com/iklimantov/Twenty_one_bot
+cd Twenty_one_bot
 ```
 
 ### 2. Создание виртуального окружения
